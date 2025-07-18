@@ -16,5 +16,7 @@ It integrates directly with **Google ADK (Agent Development Kit)** via **MCP too
 
 ---
 
-## 📁 Project Structure
+## ⚙️ Setup Instructions
 
+
+## Commands 

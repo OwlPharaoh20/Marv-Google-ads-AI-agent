@@ -1,7 +1,16 @@
 [project]
 name = "marv-ai-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "A CLI AI agent to create Google Ads campaigns using LangChain, MCP, and MySQL"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
+requires-python = ">=3.10"
+
+dependencies = [
+    "langchain",
+    "openai",
+    "requests",
+    "python-dotenv",
+    "rich",
+    "sqlalchemy",
+    "pymysql"
+]
